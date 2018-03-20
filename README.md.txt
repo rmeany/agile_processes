@@ -1,0 +1,1 @@
+This a script that will be run on CI environments 
